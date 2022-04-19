@@ -1,0 +1,15 @@
+C:\Users\stopkan\Desktop\SOLID\SOLID\SingleResponsibility\obj\Debug\net6.0\SingleResponsibility.csproj.AssemblyReference.cache
+C:\Users\stopkan\Desktop\SOLID\SOLID\SingleResponsibility\obj\Debug\net6.0\SingleResponsibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stopkan\Desktop\SOLID\SOLID\SingleResponsibility\obj\Debug\net6.0\SingleResponsibility.AssemblyInfoInputs.cache
+C:\Users\stopkan\Desktop\SOLID\SOLID\SingleResponsibility\obj\Debug\net6.0\SingleResponsibility.AssemblyInfo.cs
+C:\Users\stopkan\Desktop\SOLID\SOLID\SingleResponsibility\obj\Debug\net6.0\SingleResponsibility.csproj.CoreCompileInputs.cache
+C:\Users\stopkan\Desktop\SOLID\SOLID\SingleResponsibility\bin\Debug\net6.0\SingleResponsibility.exe
+C:\Users\stopkan\Desktop\SOLID\SOLID\SingleResponsibility\bin\Debug\net6.0\SingleResponsibility.deps.json
+C:\Users\stopkan\Desktop\SOLID\SOLID\SingleResponsibility\bin\Debug\net6.0\SingleResponsibility.runtimeconfig.json
+C:\Users\stopkan\Desktop\SOLID\SOLID\SingleResponsibility\bin\Debug\net6.0\SingleResponsibility.dll
+C:\Users\stopkan\Desktop\SOLID\SOLID\SingleResponsibility\bin\Debug\net6.0\ref\SingleResponsibility.dll
+C:\Users\stopkan\Desktop\SOLID\SOLID\SingleResponsibility\bin\Debug\net6.0\SingleResponsibility.pdb
+C:\Users\stopkan\Desktop\SOLID\SOLID\SingleResponsibility\obj\Debug\net6.0\SingleResponsibility.dll
+C:\Users\stopkan\Desktop\SOLID\SOLID\SingleResponsibility\obj\Debug\net6.0\ref\SingleResponsibility.dll
+C:\Users\stopkan\Desktop\SOLID\SOLID\SingleResponsibility\obj\Debug\net6.0\SingleResponsibility.pdb
+C:\Users\stopkan\Desktop\SOLID\SOLID\SingleResponsibility\obj\Debug\net6.0\SingleResponsibility.genruntimeconfig.cache
